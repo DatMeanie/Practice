@@ -1,0 +1,11 @@
+E:\Coding\Practice\C#\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+E:\Coding\Practice\C#\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+E:\Coding\Practice\C#\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+E:\Coding\Practice\C#\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.AssemblyReference.cache
+E:\Coding\Practice\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.LoginForm.resources
+E:\Coding\Practice\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+E:\Coding\Practice\C#\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.cache
+E:\Coding\Practice\C#\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
+E:\Coding\Practice\C#\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+E:\Coding\Practice\C#\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+E:\Coding\Practice\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.AdminForm.resources

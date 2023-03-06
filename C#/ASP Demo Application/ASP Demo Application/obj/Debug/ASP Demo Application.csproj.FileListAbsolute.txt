@@ -1,0 +1,59 @@
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\ASP Demo Application.dll.config
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\ASP Demo Application.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\ASP Demo Application.pdb
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\csc.exe
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\csc.exe.config
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\csc.rsp
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\csi.exe
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\csi.exe.config
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\csi.rsp
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.AppContext.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Collections.Immutable.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Console.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Globalization.Calendars.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.IO.Compression.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.IO.FileSystem.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Net.Http.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Net.Sockets.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Reflection.Metadata.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.ValueTuple.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Xml.XPath.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\vbc.exe
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\vbc.exe.config
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\vbc.rsp
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\VBCSCompiler.exe
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\roslyn\VBCSCompiler.exe.config
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\obj\Debug\ASP Demo Application.csproj.AssemblyReference.cache
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\obj\Debug\ASP Demo Application.csproj.CoreCompileInputs.cache
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\obj\Debug\ASP Demo Application.csproj.CopyComplete
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\obj\Debug\ASP Demo Application.dll
+E:\Coding\Practice\C#\ASP Demo Application\ASP Demo Application\obj\Debug\ASP Demo Application.pdb
